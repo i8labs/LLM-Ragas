@@ -1,0 +1,17 @@
+{
+    "question": [
+      "What is the current capital of Himachal Pradesh?",
+      "What was the summer capital of British India?",
+      "Which temple was Shimla most popular for during the 19th century?",
+      "Who constructed the first British summer home in Shimla?",
+      "In what year was the Kalka-Shimla railway line constructed?"
+    ],
+    "ground_truth": [
+      "Shimla is the current capital of Himachal Pradesh",
+      "Shimla was the summer capital of British India",
+      "Hindu Goddess Shyamala Devi's temple was Shimla most popular for during the 19th century.",
+      "Charles Pratt Kennedy constructed the first British summer home in Shimla.",
+      "In 1906, the Kalka-Shimla railway line constructed."
+    ]
+}
+  

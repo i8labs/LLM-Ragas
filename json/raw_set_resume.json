@@ -1,0 +1,17 @@
+{
+    "question": [
+      "What is the email address of Paras?",
+      "What is the phone number of Paras?",
+      "Does Paras have any prior internship experience?",
+      "What are Paras's hobbies?",
+      "Is Paras Skilled with Nginx and Docker?"
+    ],
+    "ground_truth": [
+      "dhimanparas20@gmail.com",
+      "+91 9418168860",
+      "Yes",
+      "Coding, Swimming, Football, Table Tennis, Trekking ,Anime , Driving & Music.",
+      "Yes, skilled with both."
+    ]
+}
+ 

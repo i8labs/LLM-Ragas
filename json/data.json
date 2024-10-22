@@ -1,0 +1,41 @@
+{
+    "question": [
+        "What is artificial intelligence?", 
+        "How does photosynthesis work?", 
+        "What are the effects of global warming?", 
+        "Who wrote 'Pride and Prejudice'?", 
+        "What is quantum computing?"
+    ],
+
+    "contexts": [
+        [
+            "Artificial intelligence (AI) refers to the simulation of human intelligence in machines that are programmed to think and learn."
+        ],
+        [
+            "Photosynthesis is a process used by plants and other organisms to convert light energy into chemical energy."
+        ],
+        [
+            "Global warming is the long-term heating of Earth’s climate system observed since the pre-industrial period due to human activities."
+        ],
+        [
+            "'Pride and Prejudice' is a novel written by Jane Austen, first published in 1813."
+        ],
+        [
+            "Quantum computing harnesses the unique behavior of quantum mechanics, such as superposition and entanglement, to perform computation."
+        ]
+    ],
+    "answer": [
+        "AI refers to machines programmed to simulate human intelligence.", 
+        "Photosynthesis converts light energy into chemical energy.", 
+        "Global warming causes long-term heating of Earth's climate.", 
+        "Jane Austen wrote 'Pride and Prejudice'.", 
+        "Quantum computing uses quantum mechanics to perform calculations."
+    ],
+    "ground_truth": [
+        "Artificial intelligence refers to machines simulating human intelligence.",
+        "Photosynthesis allows plants to convert sunlight into usable energy.",
+        "Global warming results in rising temperatures and climate change.",
+        "Jane Austen is the author of the novel 'Pride and Prejudice'.",
+        "Quantum computing uses principles of quantum mechanics for computations."
+    ]
+}    
