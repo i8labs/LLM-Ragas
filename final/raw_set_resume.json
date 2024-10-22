@@ -1,0 +1,11 @@
+{
+    "question": [
+      "What is the email address of Paras?",
+      "What is the phone number of Paras?"
+    ],
+    "ground_truth": [
+      "dhimanparas20@gmail.com",
+      "+91 9418168860"
+    ]
+}
+ 
